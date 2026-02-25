@@ -10,6 +10,3 @@ Java console application that simulates a simple store system.
 ## 🛠 Technologies
 - Java
 - IntelliJ IDEA
-
-## 🚀 Author
-Vanessa Meyer

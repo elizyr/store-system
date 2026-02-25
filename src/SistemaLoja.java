@@ -22,7 +22,11 @@ public class SistemaLoja {
     static int contadorId = 1;
     static double totalVendas = 0;
 
-    public static void main(String[] args) {
+    public void iniciar() {
+        System.out.println("Sistema da loja iniciado!");
+    }
+
+ public static void main(String[] args) {
 
         int opcao;
 
