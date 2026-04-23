@@ -1,15 +1,28 @@
 # Store System 🛒
 
-Aplicação Java no console que simula um sistema simples de loja, desenvolvida para praticar lógica de programação back-end e conceitos de programação orientada a objetos em Java.
+Aplicação desenvolvida em Java que simula um sistema simples de loja no console, com foco em lógica de programação, interação via terminal e conceitos de programação orientada a objetos.
 
-📌 Funcionalidades
-Cadastro de produtos
-Cálculo de vendas
-Menu interativo via console
-Simulação de gerenciamento de produtos em um ambiente de loja
-🛠 Tecnologias Utilizadas
-Java
-IntelliJ IDEA
-🎯 Objetivo do Projeto
+## 📌 Funcionalidades
 
-Este projeto foi criado para fortalecer conhecimentos em fundamentos do Java, incluindo variáveis, estruturas condicionais, loops, métodos e conceitos de programação orientada a objetos. Além disso, demonstra o desenvolvimento de um sistema interativo simples com foco em lógica de negócio e interação do usuário via console.
+* Cadastro de produtos
+* Cálculo de vendas
+* Menu interativo no console
+* Simulação de gerenciamento de produtos
+
+## 🛠 Tecnologias Utilizadas
+
+* Java
+* IntelliJ IDEA
+
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido para praticar fundamentos do desenvolvimento back-end utilizando Java, aplicando conceitos como:
+
+* Estruturas condicionais e de repetição
+* Métodos e organização do código
+* Programação Orientada a Objetos (POO)
+* Lógica de negócio
+
+## 🚀 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram praticados conceitos essenciais para aplicações back-end, como manipulação de dados, estruturação de sistemas em Java e interação com o usuário através do console.
